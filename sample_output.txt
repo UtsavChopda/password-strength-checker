@@ -1,0 +1,3 @@
+Password: Test@123
+Strength: Strong
+Reason: Contains uppercase, lowercase, number, and special character
